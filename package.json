@@ -15,7 +15,7 @@
   "dependencies": {
     "ethers": "^5.1.0",
     "js-sha3": "^0.8.0",
-    "yaml": "^1.10.0"
+    "yaml": "^2.2.2"
   },
   "resolutions": {
     "hardhat/mocha": "^8.0.0"
